@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>SwiftReturns</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: sans-serif;
+      background: #f0f0f0;
+      padding: 40px;
+      text-align: center;
+    }
+    h1 { color: #222; }
+    p { color: #555; }
+    .cta {
+      background: #10b981;
+      color: white;
+      padding: 10px 20px;
+      text-decoration: none;https://www.editpad.org/web_assets/frontend/images/download-icon.svg
+      border-radius: 6px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Welcome to SwiftReturns</h1>
+  <p>Your gateway to smart, weekly profits with AI trading.</p>
+  <a href="#" class="cta">Join Now</a>
+</body>
+</html>
